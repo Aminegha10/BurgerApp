@@ -74,7 +74,7 @@ const Footer = () => {
             <p className="text-white text-center text-opacity-50 mt-[1.5rem]">
                 Copyright @ 2024
                  <a className="underline text-yellow-300 ml-2" href="https://www.linkedin.com/in/abdelali-houmaidi-72b123293/">
-                     Abdelali Houmaidi
+                     Mohamed Amine Ghanim 
                 </a>
             </p>
         </footer>
